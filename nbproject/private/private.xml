@@ -3,10 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/CN5/NETBEAN12.4/MathUtil/src/com/cuongpc/mathutil/core/MathUtil.java</file>
-            <file>file:/D:/CN5/NETBEAN12.4/MathUtil/test/com/cuongpc/mathutil/core/FactorialTest.java</file>
-            <file>file:/D:/CN5/NETBEAN12.4/MathUtil/test/com/cuongpc/mathutil/core/AdvancedFactorialTest.java</file>
-            <file>file:/D:/CN5/NETBEAN12.4/MathUtil/src/com/cuongpc/mathutil/main/Main.java</file>
+            <file>file:/D:/CN5/NETBEAN12.4/math-uti-live-1510/test/com/cuongpc/mathutil/core/FactorialTest.java</file>
+            <file>file:/D:/CN5/NETBEAN12.4/math-uti-live-1510/test/com/cuongpc/mathutil/core/AdvancedFactorialTest.java</file>
         </group>
     </open-files>
 </project-private>
